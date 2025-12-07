@@ -1,5 +1,6 @@
 {
   "description": "A foundation for scalable desktop apps",
+  "type": "json",
   "keywords": [
     "electron",
     "boilerplate",
